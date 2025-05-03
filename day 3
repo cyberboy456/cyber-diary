@@ -1,0 +1,13 @@
+# Day 3 – Directory Management & Permissions
+
+## Commands Learned:
+- `mkdir`: Create a folder
+- `cd`: Move into a folder
+- `cd ..`: Move out of a folder
+- `pwd`: Print working directory
+- `touch`: Create a file
+- `ls -l`: Check permissions
+- `chmod`: Change permissions
+
+## What I Learned:
+Today I created folders and files, navigated between them, and learned how Linux file permissions work. I also practiced changing permissions with `chmod`.
