@@ -1,0 +1,11 @@
+# Day 4 – User Management & Sudo
+
+## Commands Learned:
+- `whoami`: Check current user
+- `adduser`: Create a user
+- `su - username`: Switch user
+- `usermod -aG sudo user`: Give sudo access
+- `sudo apt update`: Run a command as root
+
+## What I Learned:
+Today I learned how to create new users, switch between users, and give sudo access. I understood the importance of user permissions in cybersecurity.
