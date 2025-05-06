@@ -1,0 +1,10 @@
+# Day 5 – File & Directory Permissions
+
+## Commands Learned:
+- `ls -l`: View file permissions in long list format
+- `chmod`: Change file or folder permissions
+- `chown`: Change file owner and group
+- `umask`: View or set default permission mask for new files
+
+## What I Learned:
+Today I learned how Linux handles file and directory permissions. I practiced using `chmod` to set read, write, and execute rights using numeric values like 755. I also used `chown` to change ownership of files. I now understand how permission settings protect files and are a key part of cybersecurity.
