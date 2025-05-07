@@ -1,0 +1,16 @@
+# Day 6 – File Navigation & Wildcards
+
+## Commands Learned:
+- `cd`: Change directory
+- `pwd`: Print current working directory
+- `ls`: List directory contents
+  - `ls -a`: Show hidden files
+  - `ls -R`: Show contents recursively
+  - `ls *.txt`: Use wildcard to list `.txt` files
+- `find`: Search for files in directory hierarchy
+  - Example: `find /home/afaq -name "*.sh"`
+- `locate`: Quickly find files using a database
+  - Requires `sudo updatedb` to update the index
+
+## What I Learned:
+Today I learned how to navigate through the file system using `cd`, `pwd`, and `ls`. I also explored how to use wildcards like `*`, `?`, and `[ ]` to search and match filenames. I practiced using `find` and `locate` commands to search for files, which are helpful tools in Linux and very useful in cybersecurity tasks like system audits and malware investigations.
