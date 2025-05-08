@@ -1,0 +1,13 @@
+# Day 7 – Understanding Process Management & System Monitoring
+
+## Commands Learned:
+- `ps`: Display active processes
+- `top`: Real-time process viewer
+- `htop`: Enhanced version of `top`
+- `kill`: Terminate processes
+- `killall`: Kill processes by name
+
+## What I Learned:
+Today I learned how to view and manage running processes in Linux. I practiced using `ps` to check running processes, `top` for real-time monitoring, and `htop` for an improved view. I also learned how to terminate processes with `kill` and `killall`. Understanding process management is crucial in ethical hacking for controlling system behavior, detecting rogue processes, and managing resources efficiently.
+
+  
