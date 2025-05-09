@@ -1,0 +1,23 @@
+# Day 9 – Network Basics & Security
+
+## 📚 Commands Learned:
+
+- `ifconfig` – View network interfaces and IP configuration.
+- `ip a` – Modern alternative to `ifconfig`, shows detailed info.
+- `ping <domain>` – Check if a host is reachable.
+- `netstat -tuln` – View active TCP/UDP ports and listening services.
+- `nslookup <domain>` – Find IP addresses of domain names (DNS lookup).
+
+## 💡 What I Learned:
+
+Today I explored basic networking tools used in Linux. I learned how to:
+- View IP configuration using `ip a` and `ifconfig`.
+- Test connection to websites using `ping`.
+- Check open network ports with `netstat`.
+- Use `nslookup` to resolve domain names to IPs.
+
+These tools are essential in cybersecurity for understanding network layout, identifying vulnerabilities, and troubleshooting issues.
+
+## 📺 Video Watched:
+**[Computer Networking - Network Basics for Beginners](https://www.youtube.com/watch?v=qiQR5rTSshw)** – A simple and clear explanation of basic networking concepts.
+
