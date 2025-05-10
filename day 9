@@ -1,0 +1,28 @@
+# Day 10 – File Compression & Archiving
+
+## 📚 Commands Learned:
+
+- `tar -cvf archive.tar file1 file2` – Create a `.tar` archive of files.
+- `tar -xvf archive.tar` – Extract files from a `.tar` archive.
+- `tar -czvf archive.tar.gz folder/` – Create a compressed `.tar.gz` archive.
+- `tar -xzvf archive.tar.gz` – Extract a `.tar.gz` archive.
+- `zip file.zip file1 file2` – Compress files into a `.zip`.
+- `unzip file.zip` – Extract files from a `.zip`.
+
+## 🧠 What I Learned:
+
+Today I learned how to compress and extract files using `tar`, `zip`, and `unzip`. These tools help in:
+- Packaging multiple files together.
+- Saving space by compressing data.
+- Managing files for upload/download or investigation.
+
+Understanding compression is useful when analyzing backups, malware, or logs in cybersecurity.
+
+## 📝 Practice Tip:
+
+Try creating a folder, putting a few test files inside, and using:
+```bash
+tar -czvf backup.tar.gz test_folder/
+tar -xzvf backup.tar.gz
+zip myzip.zip file1.txt file2.txt
+unzip myzip.zip
