@@ -1,0 +1,12 @@
+# Day 12 – Searching Files & Text
+
+## Commands Learned:
+- `find /path -name filename`: Search for files by name
+- `locate filename`: Fast file search (database-based)
+- `grep 'text' filename`: Search for text inside a file
+- `grep -i`: Case-insensitive search
+- `grep -n`: Show line numbers
+- `grep -r`: Search inside all files in directory
+
+## What I Learned:
+I learned how to search for files using `find` and `locate`, and how to search inside files using `grep`. These are important tools for investigating systems in cybersecurity.
