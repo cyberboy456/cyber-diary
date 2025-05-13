@@ -1,0 +1,9 @@
+# Day 13 – sed, awk, and Redirection
+
+## Commands Learned:
+- `sed`: Stream editor for modifying files.
+- `awk`: Useful for text scanning and reporting.
+- `>`, `>>`, `<`, `|`: Redirection operators.
+
+## What I Learned:
+I practiced modifying file content using `sed` and extracting columns using `awk`. I also learned how redirection helps manage output/input efficiently.
