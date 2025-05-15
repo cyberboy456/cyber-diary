@@ -1,0 +1,12 @@
+# Day 14 – Networking Basics
+
+## Commands Learned:
+- `ping`
+- `ip a`
+- `netstat -tuln`
+- `ss -tuln`
+- `traceroute`
+- `nmap`
+
+## What I Learned:
+Today I explored basic networking tools. These commands help monitor connectivity, view network interfaces, and inspect active ports and services. Understanding these tools is essential for ethical hacking and network analysis.
