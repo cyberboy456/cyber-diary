@@ -1,0 +1,26 @@
+# Day 14– System Logs & Monitoring
+
+## 1. `dmesg`
+- Kernel ring buffer, shows hardware & boot logs.
+- Use: `dmesg | less`
+
+## 2. `journalctl`
+- Views systemd-managed logs.
+- Examples:
+  - `journalctl -xe` → Errors/events
+  - `journalctl -b` → Logs since boot
+
+## 3. `tail`
+- Shows last few lines of a file.
+- Example: `tail -n 20 /var/log/syslog`
+
+## 4. `less`
+- View file page-by-page. Exit with `q`.
+
+## 5. `cat`
+- Displays entire file at once.
+
+## Use Cases:
+- Troubleshooting boot issues
+- Monitoring failed login attempts
+- Viewing system activity
