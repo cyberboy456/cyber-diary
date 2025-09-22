@@ -13,4 +13,6 @@
   - Requires `sudo updatedb` to update the index
 
 ## What I Learned:
-Today I learned how to navigate through the file system using `cd`, `pwd`, and `ls`. I also explored how to use wildcards like `*`, `?`, and `[ ]` to search and match filenames. I practiced using `find` and `locate` commands to search for files, which are helpful tools in Linux and very useful in cybersecurity tasks like system audits and malware investigations.
+Today I learned how to navigate through the file system using `cd`, `pwd`, and `ls`. I also explored how to use wildcards like `*`, `?`, and 
+`[ ]` to search and match filenames. I practiced using `find` and `locate` commands to search for files, which are helpful tools in Linux and
+very useful in cybersecurity tasks like system audits and malware investigations.
