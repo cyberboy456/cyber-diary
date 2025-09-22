@@ -6,4 +6,5 @@
 - `>`, `>>`, `<`, `|`: Redirection operators.
 
 ## What I Learned:
-I practiced modifying file content using `sed` and extracting columns using `awk`. I also learned how redirection helps manage output/input efficiently.
+I practiced modifying file content using `sed` and extracting columns using `awk`. I also learned how redirection helps manage
+output/input efficiently.
