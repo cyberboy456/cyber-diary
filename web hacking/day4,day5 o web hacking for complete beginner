@@ -5,3 +5,13 @@ how to make the table in the sql data base. The command which is use for this is
   
 CREATE TABLE (table_name)
 this command will create the table in which we enter differnt things that how many columns we want to add in this 
+
+----------------------------------------------------------=><=---------------------------------------------------------------------------------
+DAY 5
+the day is also on the learning of sql today i learnt some most importatnt coomand for running the sql quries which is 
+important if we donot understand these quries then we may not understand sql 
+the commands that i learnt is:
+SELECT
+FROM
+WHERE 
+ORDER BY
