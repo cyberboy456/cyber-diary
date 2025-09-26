@@ -8,10 +8,18 @@ this command will create the table in which we enter differnt things that how ma
 
 ----------------------------------------------------------=><=---------------------------------------------------------------------------------
 DAY 5
-the day is also on the learning of sql today i learnt some most importatnt coomand for running the sql quries which is 
+today is also on the learning of sql today i learnt some most importatnt coomand for running the sql quries which is 
 important if we donot understand these quries then we may not understand sql 
 the commands that i learnt is:
 SELECT
 FROM
 WHERE 
 ORDER BY
+----------------------------------------------------------=><=---------------------------------------------------------------------------------
+DAY 6
+today is the day 6 and it is important because it is on sql also to day i learn the som important things which include:
+the operator which include (<,>,<>,=)
+the NOT, AND,OR operator
+the IN operator
+the BETWEEN operator
+
