@@ -2,3 +2,13 @@ the first task in this room is intro
 the 2nd task is about the access the machine
 the third task is about the injection as there are two types of injectionone is sql injection and the second is command injection 
 the fourth task is about manily commmand injection 
+the fifth task is about command injection practical in which we discuss the blind and active command injection the blind injection is use
+when the commands is run in the input but the output is not shown to us.
+while active command injection is used in which we use the input and it show the output to us.the function which is use in php passthru() 
+that show every command  on the website that we enter.
+task 5:
+What strange text file is in the website root directory? ans) drpepper.txt
+task 6:
+How many non-root/non-service/non-daemon users are there? ans) 0\
+task 7: 
+What user is this app running as? ans) www-data
