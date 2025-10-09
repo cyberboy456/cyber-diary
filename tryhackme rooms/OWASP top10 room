@@ -8,7 +8,41 @@ while active command injection is used in which we use the input and it show the
 that show every command  on the website that we enter.
 task 5:
 What strange text file is in the website root directory? ans) drpepper.txt
-task 6:
+task 5.1
 How many non-root/non-service/non-daemon users are there? ans) 0\
-task 7: 
+task 5.2: 
 What user is this app running as? ans) www-data
+task 5.3:
+What is the user's shell set as? ans) /usr/sbin/nologin
+task 5.4:
+What version of Ubuntu is running? ans) 18.04.4
+task 5.5:
+Print out the MOTD.  What favorite beverage is shown? ans) Dr Pepper
+task 7.1:
+What is the flag that you found in darren's account?
+ans) fe86079416a21a3c99937fea8874b667
+task 7.2:
+Now try to do the same trick and see if you can login as arthur. ans)no answer needed
+task 7.3:
+What is the flag that you found in arthur's account?
+ans) d9ac0f7db4fda460ac3edeb75d75e16e
+task 11.1:
+What is the name of the mentioned directory?
+ans) /assets
+task 11.2:
+Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?
+ans) webapp.db
+task 11.3:
+Use the supporting material to access the sensitive data. What is the password hash of the admin user?
+ans) 6eea9b7ef19179a06954edd0f6c05ceb
+task 11.4:
+Crack the hash.
+What is the admin's plaintext password?
+qwertyuiop
+task 11.5:
+Login as the admin. What is the flag?
+ans: THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
+
+
+
+
