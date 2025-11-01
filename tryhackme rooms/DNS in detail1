@@ -1,0 +1,21 @@
+DNS stand for domain name system
+1) task of Domain Hierarchy 
+1.1 What is the maximum length of a subdomain?
+ans) 63
+1.2) Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
+ans) -
+What is the maximum length of a domain name? ans) 253
+What type of TLD is .co.uk? ans) ccTLD
+2) task of RECORD TYPE
+2.1) What type of record would be used to advise where to send email?
+ans) MX
+2.2) What type of record handles IPv6 addresses? ans) AAAA
+3) task of making a request 
+3.1) What field specifies how long a DNS record should be cached for? ans) TTL
+3.2) What type of DNS Server is usually provided by your ISP? ans) recursive
+3.3) What type of server holds all the records for a domain? ans) authoritative
+4) practical
+4.1) What is the CNAME of shop.website.thm? ans) shops.myshopify.com
+4.2) What is the value of the TXT record of website.thm? ans) THM{7012BBA60997F35A9516C2E16D2944FF}
+4.3) What is the numerical priority value for the MX record? ans) 30
+4.4) What is the IP address for the A record of www.website.thm? ans) 10.10.10.10
