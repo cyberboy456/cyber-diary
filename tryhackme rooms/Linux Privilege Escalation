@@ -1,0 +1,9 @@
+some enmuration tools:
+LinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+LinEnum: https://github.com/rebootuser/LinEnum
+LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
+Linux Smart Enumeration: https://github.com/diego-treitos/linux-smart-enumeration
+Linux Priv Checker: https://github.com/linted/linuxprivchecker
+task 3: Enumeration
+3.1) What is the hostname of the target system?
+task 5: Privilege Escalation: Kernel Exploits
