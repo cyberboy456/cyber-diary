@@ -1,0 +1,30 @@
+this room is about shodan which most important tool in cyber security:
+the task that i solved is given below
+task 1) this one is almost introduction about shodan
+2) Filters.
+2.1) What command is used to find Eternal Blue exploits on Shodan using the vuln filter?
+ans) vuln:ms17-010
+3) Google & Filtering
+3.1) What is the top operating system for MYSQL servers in Google's ASN?
+Ans) 5.6.40-84.0-log
+3.2) What is the 2nd most popular country for MYSQL servers in Google's ASN?
+Ans) Netherlands
+3.3) Under Google's ASN, which is more popular for nginx, Hypertext Transfer Protocol or Hypertext Transfer Protocol with SSL?
+Ans) Hypertext Transfer Protocol
+3.4) Under Google's ASN, what is the most popular city?
+Ans) Kansas City
+3.5) Under Google's ASN in Los Angeles, what is the top operating system according to Shodan?
+Ans) Debian
+3.6) Using the top Webcam search from the explore page, does Google's ASN have any webcams? Yay / nay.
+Ans) nay
+4) Shodan Monitor
+4.1) What URL takes you to Shodan Monitor?
+https://monitor.shodan.io/dashboard
+5) Shodan Dorking
+5.1) What dork lets us find PCs infected by Ransomware?
+has_screenshot:true encrypted attention
+6) Shodan Extension
+Ans) no answer require
+7) Exploring the API & Conclusion
+Ans) no answer require 
+
